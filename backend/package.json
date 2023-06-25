@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "hapi": "^18.1.0",
+    "node-cron": "^3.0.2",
+    "node-mailer": "^0.1.1",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.22",
+    "pg": "^8.10.0",
+    "redis": "^3.1.2"
+  }
+}
