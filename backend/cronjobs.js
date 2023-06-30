@@ -26,8 +26,8 @@ async function sendMail(report,receiver)
     host: "smtp.gmail.com",
     port: 587,
     auth: {
-      user: 'nikhil.samsung.dummy@gmail.com',
-      pass: 'omoduwscqdwjepsj', 
+      user: 'yourmail@gmail.com',
+      pass: 'yourkey', 
     },
     });
 
